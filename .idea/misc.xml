@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Thien/work/LearnAndroid/Weather app/app/src/main/res/drawable/backgroud1.xml" value="0.1995" />
+        <entry key="..\:/Thien/work/LearnAndroid/Weather app/app/src/main/res/drawable/background_7_day_info.xml" value="0.1995" />
+        <entry key="..\:/Thien/work/LearnAndroid/Weather app/app/src/main/res/drawable/background_next7days_item.xml" value="0.1995" />
+        <entry key="..\:/Thien/work/LearnAndroid/Weather app/app/src/main/res/drawable/background_rv_7day_info.xml" value="0.2005" />
+        <entry key="..\:/Thien/work/LearnAndroid/Weather app/app/src/main/res/drawable/background_rv_7day_item.xml" value="0.1995" />
+        <entry key="..\:/Thien/work/LearnAndroid/Weather app/app/src/main/res/drawable/background_weather_hour.xml" value="0.2985" />
+        <entry key="..\:/Thien/work/LearnAndroid/Weather app/app/src/main/res/drawable/background_weather_info.xml" value="0.199" />
+        <entry key="..\:/Thien/work/LearnAndroid/Weather app/app/src/main/res/drawable/background_weather_now.xml" value="0.227" />
+        <entry key="..\:/Thien/work/LearnAndroid/Weather app/app/src/main/res/drawable/ic_cludy.xml" value="0.2" />
+        <entry key="..\:/Thien/work/LearnAndroid/Weather app/app/src/main/res/drawable/ic_humidity.xml" value="0.2455" />
+        <entry key="..\:/Thien/work/LearnAndroid/Weather app/app/src/main/res/drawable/ic_icon.xml" value="0.2" />
+        <entry key="..\:/Thien/work/LearnAndroid/Weather app/app/src/main/res/drawable/ic_icon__2_.xml" value="0.373" />
+        <entry key="..\:/Thien/work/LearnAndroid/Weather app/app/src/main/res/drawable/ic_navi.xml" value="0.261" />
+        <entry key="..\:/Thien/work/LearnAndroid/Weather app/app/src/main/res/drawable/ic_point.xml" value="0.261" />
+        <entry key="..\:/Thien/work/LearnAndroid/Weather app/app/src/main/res/drawable/ic_rectangle_16.xml" value="0.373" />
+        <entry key="..\:/Thien/work/LearnAndroid/Weather app/app/src/main/res/drawable/ic_sun.xml" value="0.261" />
+        <entry key="..\:/Thien/work/LearnAndroid/Weather app/app/src/main/res/drawable/ic_umbrella.xml" value="0.2645" />
+        <entry key="..\:/Thien/work/LearnAndroid/Weather app/app/src/main/res/drawable/ic_union__2_.xml" value="0.261" />
+        <entry key="..\:/Thien/work/LearnAndroid/Weather app/app/src/main/res/drawable/ic_vector.xml" value="0.261" />
+        <entry key="..\:/Thien/work/LearnAndroid/Weather app/app/src/main/res/drawable/ic_wind.xml" value="0.2455" />
+        <entry key="..\:/Thien/work/LearnAndroid/Weather app/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Thien/work/LearnAndroid/Weather app/app/src/main/res/layout/bttom_sheet.xml" value="0.264" />
+        <entry key="..\:/Thien/work/LearnAndroid/Weather app/app/src/main/res/layout/fragment_next7_days.xml" value="0.3547008547008547" />
+        <entry key="..\:/Thien/work/LearnAndroid/Weather app/app/src/main/res/layout/fragment_row.xml" value="0.176" />
+        <entry key="..\:/Thien/work/LearnAndroid/Weather app/app/src/main/res/layout/fragment_title.xml" value="0.264" />
+        <entry key="..\:/Thien/work/LearnAndroid/Weather app/app/src/main/res/layout/fragment_today2.xml" value="0.3055555555555556" />
+        <entry key="..\:/Thien/work/LearnAndroid/Weather app/app/src/main/res/layout/fragment_tomorrow.xml" value="0.294017094017094" />
+        <entry key="..\:/Thien/work/LearnAndroid/Weather app/app/src/main/res/layout/fragment_weather_day.xml" value="0.3055555555555556" />
+        <entry key="..\:/Thien/work/LearnAndroid/Weather app/app/src/main/res/layout/fragment_weather_for_hour.xml" value="0.3055555555555556" />
+        <entry key="..\:/Thien/work/LearnAndroid/Weather app/app/src/main/res/layout/fragment_weather_info.xml" value="0.29784824462061155" />
+        <entry key="..\:/Thien/work/LearnAndroid/Weather app/app/src/main/res/layout/item_searched_dialog.xml" value="0.21196581196581196" />
+        <entry key="..\:/Thien/work/LearnAndroid/Weather app/app/src/main/res/layout/retry_dialog.xml" value="0.22008547008547008" />
+        <entry key="..\:/Thien/work/LearnAndroid/Weather app/app/src/main/res/layout/rv_item_next_7days.xml" value="0.3929471032745592" />
+        <entry key="..\:/Thien/work/LearnAndroid/Weather app/app/src/main/res/layout/rv_item_weather_hour.xml" value="0.72" />
+        <entry key="..\:/Thien/work/LearnAndroid/Weather app/app/src/main/res/layout/tab_bar.xml" value="0.536" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
