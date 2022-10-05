@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "com.example.weatherapp-mergeDebugResources-24:/layout/fragment_title.xml",
+        "source": "com.example.weatherapp-main-27:/layout/fragment_title.xml"
+    },
+    {
+        "merged": "com.example.weatherapp-mergeDebugResources-24:/layout/activity_main.xml",
+        "source": "com.example.weatherapp-main-27:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.weatherapp-mergeDebugResources-24:/layout/fragment_weather_info.xml",
+        "source": "com.example.weatherapp-main-27:/layout/fragment_weather_info.xml"
+    },
+    {
+        "merged": "com.example.weatherapp-mergeDebugResources-24:/layout/fragment_row.xml",
+        "source": "com.example.weatherapp-main-27:/layout/fragment_row.xml"
+    },
+    {
+        "merged": "com.example.weatherapp-mergeDebugResources-24:/layout/fragment_weather_day.xml",
+        "source": "com.example.weatherapp-main-27:/layout/fragment_weather_day.xml"
+    },
+    {
+        "merged": "com.example.weatherapp-mergeDebugResources-24:/layout/tab_bar.xml",
+        "source": "com.example.weatherapp-main-27:/layout/tab_bar.xml"
+    },
+    {
+        "merged": "com.example.weatherapp-mergeDebugResources-24:/layout/rv_item_weather_hour.xml",
+        "source": "com.example.weatherapp-main-27:/layout/rv_item_weather_hour.xml"
+    },
+    {
+        "merged": "com.example.weatherapp-mergeDebugResources-24:/layout/rv_item_next_7days.xml",
+        "source": "com.example.weatherapp-main-27:/layout/rv_item_next_7days.xml"
+    },
+    {
+        "merged": "com.example.weatherapp-mergeDebugResources-24:/layout/fragment_next7_days.xml",
+        "source": "com.example.weatherapp-main-27:/layout/fragment_next7_days.xml"
+    }
+]
